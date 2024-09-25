@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Saludo</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="greetingButton">Saludo</string>
+    <string name="greetingText">Saludos</string>
+    <string name="hello">Hola</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreetingApp</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="greetingButton">Greeting</string>
+    <string name="greetingText">Greetings</string>
+    <string name="hello">Hello</string>
+</resources>
